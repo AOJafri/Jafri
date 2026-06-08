@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Owais Jafri
 
-### 📊 Data Analyst | Data Scientist 
+### 📊 Data Analyst | Aspiring Data Scientist & AI Engineer 
 
 I am passionate about transforming data into actionable insights and building analytical solutions that support informed business decisions.
 
