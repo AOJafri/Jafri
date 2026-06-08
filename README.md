@@ -1,13 +1,13 @@
-- 👋 Hi, I'm Ali Owais Jafri [@AOJAFRI](https://github.com/AOJAFRI)
+# 👋 Hi, I'm Ali Owais Jafri
 
-- 👀 I’m interested in **Data Analytics and Data Science**  
-- 🌱 I’m currently learning **Prompt Engineering, Cloud Technologies, and Advanced Data Visualization**  
-- 💞️ I’m looking to collaborate on **data-driven projects, predictive modeling, business intelligence, and analytics dashboards**  
-- 📫 How to reach me: **ao.jafri@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I enjoy turning raw datasets into meaningful insights 📊 and blending engineering with AI to solve real-world problems.**  
+### 📊 Data Analyst | Data Scientist 
 
-<!---
-AOJAFRI/AOJAFRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about transforming data into actionable insights and building analytical solutions that support informed business decisions.
+
+* 📈 Working with **Data Analytics, Business Intelligence, Data Visualization, and Reporting**
+* 💻 Experienced in **Excel, Power BI, SQL, and Python** for data analysis and dashboard development
+* 🚀 Expanding my expertise in **Cloud Technologies, Prompt Engineering, Advanced Analytics, and Data-Driven Solutions**
+* 🤝 Open to collaborating on **Analytics Projects, Interactive Dashboards, Business Intelligence Solutions, and Predictive Analytics**
+* 🔍 Interested in uncovering trends, optimizing processes, and converting complex datasets into meaningful business insights
+* 📫 Reach me at: **[jows.ali@gmail.com](mailto:jows.ali@gmail.com)**
+* ⚡ I enjoy solving real-world problems through data, analytics, and technology.
